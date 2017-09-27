@@ -61,3 +61,5 @@ emb6/SConscript*
 emb6/inc/dll/trace
 emb6/src/dll/trace
 utils/src/trace.c
+
+what is the meaning of above?
