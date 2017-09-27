@@ -1,4 +1,4 @@
 new file for git test
 Change again!
 
-New change from local
+New change from local. --It is pushed from local without any pull request. Because it is pushed by owner?
