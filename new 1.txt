@@ -4,4 +4,7 @@ Change again!
 New change from local. --It is pushed from local without any pull request. Because it is pushed by owner?
 
 SSH key bind into acc, but I still need to type the user/pass. 
-Generated new key and try again!
+Generated new key and try again! 
+
+Need to change the origin from HTTPs to SSH
+to skip the user/pass steps. Let me try again!
