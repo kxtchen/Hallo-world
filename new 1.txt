@@ -12,4 +12,8 @@ to skip the user/pass steps. Let me try again!
 It works. But ask yes/no one time. Has warning added some RSA to list of known hosts.
 It should not ask again. Let me try!
 
+
 Make some conflict.
+
+Add some branchs, merge and so on.
+
