@@ -17,3 +17,5 @@ Make some conflict.
 
 Add some branchs, merge and so on.
 
+Master changed on local. If I push it to github. What will happen?
+
