@@ -13,3 +13,5 @@ It works. But ask yes/no one time. Has warning added some RSA to list of known h
 It should not ask again. Let me try!
 
 Add some branchs, merge and so on.
+
+Master changed on local. If I push it to github. What will happen?
