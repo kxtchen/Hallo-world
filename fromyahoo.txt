@@ -2,4 +2,5 @@ something different than the original
 pull request tested. 
 
 Some change again. The original project is already changed. This one still not equal to it. need clone again?
-Change the push address, what will happen with this 
+Change the push address, what will happen with this?
+Ok, there is no right to access it. Need to have pull request for that. But it is ok to clone again at same positon?
